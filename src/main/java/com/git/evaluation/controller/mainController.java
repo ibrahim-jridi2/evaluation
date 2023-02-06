@@ -11,5 +11,7 @@ public class mainController {
 
 
     // for all , this class will be touched later .
+    //for all : in this main controller we gonna try to use others service in our own controller.
+    // for exp: i'm gonna write a method called public void ibrahimMsg() and into it i will call hachem service 
 
 }
