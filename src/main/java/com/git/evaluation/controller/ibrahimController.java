@@ -14,7 +14,7 @@ public class ibrahimController {
 
     // for all , this class will be touched later .
     @GetMapping(value = "/ibrahim")
-    public void ibrahimMsg() {
-        ibrahimService.ibrahimMsg();
+    public String ibrahimMsg() {
+        return ibrahimService.ibrahimMsg();
     }
 }
