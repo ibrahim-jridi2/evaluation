@@ -17,7 +17,7 @@ public class mainController {
     // for exp: i'm gonna write a method called public void ibrahimMsg() and into it i will call hachem service
     @GetMapping
     public String IbrahimMsgFromHachemService(){
-        return hech.
+        return hech.HechService();
 
     }
 

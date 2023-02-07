@@ -1,5 +1,8 @@
 package com.git.evaluation.services;
+
+import org.springframework.stereotype.Service;
+
 @Service
 public class HachemService {
-    private String HechService(){return "our project " ; }
+    public String HechService(){return "our project " ; }
 }
