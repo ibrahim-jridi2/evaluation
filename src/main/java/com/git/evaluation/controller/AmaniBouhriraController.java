@@ -17,4 +17,7 @@ public class AmaniBouhriraController {
     public String AmaniBouhriraMsg() {
         return AmaniBouhriraMsg.AmaniBouhriraMsg();
     }
+    public void SecondCommit(){
+        System.Ou.Println ("hello there ! ssecond Commit after change")
+    }
 }
