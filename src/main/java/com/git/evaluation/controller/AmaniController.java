@@ -13,9 +13,7 @@ public class AmaniController {
     public String AmaniMsg() {
         return "Hello Amani";
     }
-    public String AmaniMsg() {
-        return "modified same function !!";
-    }
+   
     public void SecondCommit(){
         System.Ou.Println ("hello there ! second Commit after change")
          System.Ou.Println ("change branche ameni nasri !")
