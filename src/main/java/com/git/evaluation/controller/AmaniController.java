@@ -14,9 +14,6 @@ public class AmaniController {
         return "Hello Amani";
     }
    
-    public void SecondCommit(){
-        System.Ou.Println ("hello there ! second Commit after change")
-         System.Ou.Println ("change branche ameni nasri !")
-    }
+   
 }
 
